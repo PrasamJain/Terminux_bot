@@ -1,1 +1,3 @@
-#TERMINUX BOT
+#TERMINUX BOT...
+
+In this repo we make a Terminux bot using Java Android Studio.
